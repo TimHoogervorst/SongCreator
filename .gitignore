@@ -4,3 +4,4 @@ models
 models/hdbscan.pkl
 models/scaler.pkl
 models/reducer.pkl
+.cache
