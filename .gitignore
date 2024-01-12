@@ -1,8 +1,9 @@
 credentials.py
 .cache
 models
-hdbscan.pkl
-reducer.pkl
-scaler.pkl
+models/hdbscan.pkl
+models/scaler.pkl
 __pycache__
-credentials.cpython-311.pyc
+__pycache__/credentials.cpython-311.pyc
+__pycache__/credentials.cpython-39.pyc
+models/reducer.pkl
